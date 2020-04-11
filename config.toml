@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://sbam.netlify.com/"
 # languageCode = "en-us"
 title = "Sbam !"
 theme = "newsroom"
